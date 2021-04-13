@@ -2,7 +2,6 @@
 
 [![NPM version](http://img.shields.io/npm/v/armory-embeds.svg?style=flat-square)](https://www.npmjs.com/package/armory-embeds)
 [![NPM downloads](http://img.shields.io/npm/dm/armory-embeds.svg?style=flat-square)](https://www.npmjs.com/package/armory-embeds)
-[![Discord](https://img.shields.io/badge/discord-GW2Armory-blue.svg)](https://discord.gg/3BRbV7b)
 
 Guild Wars 2 Armory is arming the GW2 community with powered up embeds for items, 
 skills, 
