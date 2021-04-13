@@ -216,15 +216,8 @@ Best bet is to look at the GW2 Wiki, for example: https://wiki.guildwars2.com/wi
 ## Who Is Using armory-embeds?
 
 - [MetaBattle](https://metabattle.com)
-- [Quantify](https://qtfy.eu)
-- [Le Bus Magique](http://www.lebusmagique.fr)
-- [mists.co](http://mists.co)
-- [Lucky Noobs](https://lucky-noobs.com)
-- [Discretize](http://discretize.eu)
-- [Abaddons Maul](https://abaddons-maul.de)
-- [Chains of the Kraken](https://ctk.enjin.com)
-- [Snow Crows](http://snowcrows.com)
-- [SPF Gaming](http://spf-gaming.de/)
+- [NationHive](https://www.nationhive.com)
+
 
 [Don't see your site? Add it in a Pull Request!](https://github.com/madou/armory-react/pulls)
 
